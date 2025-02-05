@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project
+# Site HTML site with CDK
 
 This is a blank project for CDK development with TypeScript.
 
